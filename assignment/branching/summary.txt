@@ -1,0 +1,2 @@
+what I remember vividly from what Danni said:
+when I want to do an experiment in the all folder but instead of downloading all of them and upload it again, I can create a branch to 'experiment' on it. Then my colleague can help cross check.

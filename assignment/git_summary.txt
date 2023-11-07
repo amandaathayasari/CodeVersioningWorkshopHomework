@@ -1,0 +1,19 @@
+For beginner in git, I found some command that might be useful for day 2 day work: 
+1. git init:Starts a new project and turns the current directory into a place where Git can track changes
+2. git clone: Grabs a copy of a project from the web so you can work on your own version.
+3. git add: Picks the changes you want to save, putting them on a list for the next save point.
+4. git commit: Saves your selected changes and attaches a short description of what you did.
+5. git status: Tells you what’s going on right now—what’s changed, what’s staged, and what still needs attention.
+6. git pull: Brings in the latest changes from others so your work is up-to-date.
+7. git push: Shares your saved changes with others, making sure everyone has the latest version.
+8. git branch: Shows you different versions of your project. You can have separate 'branches' of your work for different features or fixes.
+9. git checkout: Switches between different versions of your project. Handy for jumping to different features or fixes.
+10. git checkout -b: Create a new branch and switch to it
+10. git merge: Combines changes from different branches. It's like bringing together different pieces of a puzzle.
+11. git log: Takes a look back at all the changes that have been made, showing who did what and when.
+
+What I learn most during training is how to uncommit the changes!
+git reset --soft HEAD~: Undo commit, preserve file
+git reset --hard: Undo commit, without preserve file
+
+
