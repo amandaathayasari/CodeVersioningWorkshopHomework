@@ -19,5 +19,4 @@ git commit, etc.
 1. I use git rebase --abort
 I don't know if this is the best practice or not. But it solved the conflict :')
 Need advice from suhu if any.
-
-2. Unsolved, but I can access it in my local
+2. Already solved by using git submodule deinit -f path/to/submodule. Maybe it happens because I accidentally use git init after I clone the repo(?).
